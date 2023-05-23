@@ -55,6 +55,8 @@ def print_status(dataframein):
     print('\x1b[0m')
 
 
+#https://stackoverflow.com/questions/287871/how-do-i-print-colored-text-to-the-terminal
+
 if __name__ == '__main__':
 
     timeout = 0
